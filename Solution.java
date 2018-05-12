@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NonDivisibleSubsetFour {
+public class Solution {
 
 	public static int getResults(int element, int oneElementModZero, HashMap<Integer, Integer> first,
 			HashMap<Integer, Integer> second, int firstHalf, int secondHalf) {
